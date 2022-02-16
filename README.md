@@ -1,4 +1,5 @@
 **Hi there👋**    
+
 I'm Jia Choi, who is interested in Data Science from South Korea.
 
 - 🔭 I’m currently studying at [@POSTECH-IDEALab](@POSTECH-IDEALab)
