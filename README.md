@@ -1,12 +1,9 @@
-<h1>Hi there, I'm Jia!👋</h1>
-<h3>I'm Jia Choi, a passionate data scientist from Korea.</h3>
+<h1> Hi there👋</h1>
+<h3>I'm Jia Choi, who is interested in Data Science from South Korea.</h3>
 
 - 🔭 I’m currently studying at [@POSTECH-IDEALab](@POSTECH-IDEALab)
-
 - 🌱 I’m currently learning **AI & Industrial Data Analysis**
-
 - 📝 I regularly write articles on **https://blog.naver.com/chlwldk1998**
-
 - 📫 How to reach me **jiachoi.pos@gmail.com**    
 
 
