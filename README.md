@@ -1,4 +1,4 @@
-**Hi there👋**    
+<h3> **Hi there👋** </h3>    
 
 I'm Jia Choi, who is interested in Data Science from South Korea.
 
