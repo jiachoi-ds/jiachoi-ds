@@ -1,5 +1,5 @@
-<h1> Hi there👋</h1>
-<h3>I'm Jia Choi, who is interested in Data Science from South Korea.</h3>
+**Hi there👋**    
+I'm Jia Choi, who is interested in Data Science from South Korea.
 
 - 🔭 I’m currently studying at [@POSTECH-IDEALab](@POSTECH-IDEALab)
 - 🌱 I’m currently learning **AI & Industrial Data Analysis**
